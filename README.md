@@ -1,2 +1,2 @@
 # esql_client
-CLI app for ES|QL
+simple script to query elasticsearch using ES|QL and render output as pandas table
